@@ -10,11 +10,11 @@ This repository is structured for both backend and frontend submissions. The bac
 
 ## Backend Status
 
-Completed and ready for submission. See backend/README.md for full setup and run instructions.
+Completed end-to-end. See backend/README.md for full setup and run instructions.
 
 ## Frontend Status
 
-Completed and ready for submission. See `frontend/README.md` for full setup, UI structure, and reasoning.
+Completed and ready as well. See `frontend/README.md` for full setup, UI structure, and reasoning.
 
 ## Quick Start (Backend)
 
