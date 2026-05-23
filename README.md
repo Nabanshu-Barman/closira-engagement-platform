@@ -18,7 +18,7 @@ Completed and ready as well. See `frontend/README.md` for full setup, UI structu
 
 ## DEMO VIDEO
 
-https://github.com/user-attachments/assets/4894d3fb-3591-4f74-94f8-5fcddc47201d
+https://github.com/user-attachments/assets/ea3dfe69-e304-4bef-835e-b24cce21f2b1
 
-API test file:
-- docs/api.http
+
+
