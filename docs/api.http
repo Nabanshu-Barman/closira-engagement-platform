@@ -1,0 +1,34 @@
+@base = http://127.0.0.1:8000
+
+### Health check
+GET {{base}}/health
+
+### Create enquiry
+POST {{base}}/enquiry
+Content-Type: application/json
+
+{
+  "channel": "whatsapp",
+  "customer_name": "Ava Patel",
+  "message": "Whats the price for 6 players this Saturday at Breakout Escape Room?"
+}
+
+### Schedule follow-up
+POST {{base}}/enquiry/{{enquiry_id}}/followup
+Content-Type: application/json
+
+{
+  "delay_minutes": 30,
+  "template": "Checking in about your Breakout Escape Room booking."
+}
+
+### Escalate enquiry
+POST {{base}}/enquiry/{{enquiry_id}}/escalate
+Content-Type: application/json
+
+{
+  "reason": "Customer requested a refund for a cancelled booking."
+}
+
+### Get enquiry history
+GET {{base}}/enquiry/{{enquiry_id}}/history
