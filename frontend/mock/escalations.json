@@ -1,0 +1,42 @@
+[
+  {
+    "id": "esc_001",
+    "enquiryId": "enq_001",
+    "customer": "Sarah Mitchell",
+    "channel": "whatsapp",
+    "reason": "Pricing dispute — customer requesting senior manager",
+    "urgency": "high",
+    "createdAt": "2026-05-23T06:20:00Z",
+    "resolved": false
+  },
+  {
+    "id": "esc_002",
+    "enquiryId": "enq_004",
+    "customer": "Arjun Mehta",
+    "channel": "whatsapp",
+    "reason": "Unresolved 3-day order delay — customer threatening churn",
+    "urgency": "high",
+    "createdAt": "2026-05-23T05:55:00Z",
+    "resolved": false
+  },
+  {
+    "id": "esc_003",
+    "enquiryId": "enq_003",
+    "customer": "Priya Sharma",
+    "channel": "call",
+    "reason": "No SOP match — complex pricing negotiation required",
+    "urgency": "medium",
+    "createdAt": "2026-05-23T08:10:00Z",
+    "resolved": false
+  },
+  {
+    "id": "esc_004",
+    "enquiryId": "enq_006",
+    "customer": "Vikram Singh",
+    "channel": "call",
+    "reason": "Enterprise deal follow-up — requires sales team involvement",
+    "urgency": "medium",
+    "createdAt": "2026-05-23T09:05:00Z",
+    "resolved": false
+  }
+]

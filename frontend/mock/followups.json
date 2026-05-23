@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fu_001",
+    "enquiryId": "enq_002",
+    "customer": "Raj Kumar",
+    "channel": "email",
+    "dueAt": "2026-05-23T11:00:00Z",
+    "messagePreview": "Hi Raj, following up on your Tuesday consultation booking — please confirm your preferred time slot.",
+    "done": false
+  },
+  {
+    "id": "fu_002",
+    "enquiryId": "enq_005",
+    "customer": "Neha Joshi",
+    "channel": "email",
+    "dueAt": "2026-05-23T09:30:00Z",
+    "messagePreview": "Hi Neha, just checking in on your after-hours consultation request. We have evening slots available this week.",
+    "done": false
+  },
+  {
+    "id": "fu_003",
+    "enquiryId": "enq_008",
+    "customer": "Dev Kapoor",
+    "channel": "email",
+    "dueAt": "2026-05-23T14:00:00Z",
+    "messagePreview": "Hi Dev, I wanted to share our Team Plan details and arrange a quick 20-minute demo for your team of 12.",
+    "done": false
+  },
+  {
+    "id": "fu_004",
+    "enquiryId": "enq_006",
+    "customer": "Vikram Singh",
+    "channel": "call",
+    "dueAt": "2026-05-22T16:00:00Z",
+    "messagePreview": "Vikram, calling to follow up on the enterprise plan discussion from last week as promised.",
+    "done": false
+  },
+  {
+    "id": "fu_005",
+    "enquiryId": "enq_007",
+    "customer": "Ananya Patel",
+    "channel": "whatsapp",
+    "dueAt": "2026-05-22T12:00:00Z",
+    "messagePreview": "Hi Ananya, confirming that your ticket #TKT-2291 has been fully resolved. Please let us know if you need anything else!",
+    "done": true
+  }
+]

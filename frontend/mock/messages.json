@@ -1,0 +1,79 @@
+[
+  {
+    "id": "msg_001",
+    "enquiryId": "enq_001",
+    "sender": "customer",
+    "text": "Hi, I got a quote from your team last week for ₹45,000 and it seems way too high compared to competitors. I need to speak to a manager.",
+    "timestamp": "2026-05-23T06:14:00Z"
+  },
+  {
+    "id": "msg_002",
+    "enquiryId": "enq_001",
+    "sender": "ai",
+    "text": "Thank you for reaching out, Sarah. I understand your concern about the pricing. Let me connect you with our pricing specialist who can walk you through the quote breakdown and explore options for you.",
+    "timestamp": "2026-05-23T06:14:06Z"
+  },
+  {
+    "id": "msg_003",
+    "enquiryId": "enq_001",
+    "sender": "customer",
+    "text": "I don't want to speak to another bot. I want a real person NOW.",
+    "timestamp": "2026-05-23T06:16:00Z"
+  },
+  {
+    "id": "msg_004",
+    "enquiryId": "enq_001",
+    "sender": "agent",
+    "text": "Hi Sarah, this is Rohan from the senior support team. I've reviewed your case and I'd love to discuss this personally. Can we schedule a call in the next 30 minutes?",
+    "timestamp": "2026-05-23T06:22:00Z"
+  },
+  {
+    "id": "msg_005",
+    "enquiryId": "enq_002",
+    "sender": "customer",
+    "text": "I'd like to book a consultation for next Tuesday if possible. Can you confirm availability?",
+    "timestamp": "2026-05-23T07:30:00Z"
+  },
+  {
+    "id": "msg_006",
+    "enquiryId": "enq_002",
+    "sender": "ai",
+    "text": "Hello Raj! We have slots available on Tuesday at 10:00 AM, 2:00 PM, and 4:30 PM. Please let us know your preferred time and we'll send a calendar invite right away.",
+    "timestamp": "2026-05-23T07:30:05Z"
+  },
+  {
+    "id": "msg_007",
+    "enquiryId": "enq_002",
+    "sender": "customer",
+    "text": "2 PM works great for me. Please confirm.",
+    "timestamp": "2026-05-23T07:45:00Z"
+  },
+  {
+    "id": "msg_008",
+    "enquiryId": "enq_002",
+    "sender": "ai",
+    "text": "Perfect! Your consultation is confirmed for Tuesday at 2:00 PM. You'll receive a calendar invite and reminder 1 hour before. See you then, Raj!",
+    "timestamp": "2026-05-23T07:45:10Z"
+  },
+  {
+    "id": "msg_009",
+    "enquiryId": "enq_004",
+    "sender": "customer",
+    "text": "I've been waiting for my order for 3 days now and nobody is responding to my calls. This is completely unacceptable.",
+    "timestamp": "2026-05-23T05:50:00Z"
+  },
+  {
+    "id": "msg_010",
+    "enquiryId": "enq_004",
+    "sender": "ai",
+    "text": "We sincerely apologise for the inconvenience, Arjun. This is not the experience we want for you. I'm immediately escalating this to our operations team who will reach out within the next 30 minutes.",
+    "timestamp": "2026-05-23T05:50:04Z"
+  },
+  {
+    "id": "msg_011",
+    "enquiryId": "enq_004",
+    "sender": "customer",
+    "text": "30 minutes? I've been waiting 3 DAYS. I want a full refund.",
+    "timestamp": "2026-05-23T05:52:00Z"
+  }
+]

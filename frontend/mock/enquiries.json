@@ -1,0 +1,92 @@
+[
+  {
+    "id": "enq_001",
+    "customer": "Sarah Mitchell",
+    "channel": "whatsapp",
+    "status": "escalated",
+    "message": "Hi, I got a quote from your team last week for ₹45,000 and it seems way too high compared to competitors. I need to speak to a manager.",
+    "summary": "Customer unhappy with pricing quote, requesting manager escalation.",
+    "sopMatch": "Pricing Complaint",
+    "suggestedResponse": "Thank you for reaching out, Sarah. I understand your concern about the pricing. Let me connect you with our pricing specialist who can walk you through the quote breakdown.",
+    "receivedAt": "2026-05-23T06:14:00Z",
+    "reason": "Pricing dispute — customer requesting manager"
+  },
+  {
+    "id": "enq_002",
+    "customer": "Raj Kumar",
+    "channel": "email",
+    "status": "qualified",
+    "message": "I'd like to book a consultation for next Tuesday if possible. Can you confirm availability?",
+    "summary": "Customer requesting to book a consultation slot for next Tuesday.",
+    "sopMatch": "Booking Enquiry",
+    "suggestedResponse": "Hello Raj! We have slots available on Tuesday at 10:00 AM, 2:00 PM, and 4:30 PM. Please let us know your preferred time and we'll confirm your booking.",
+    "receivedAt": "2026-05-23T07:30:00Z"
+  },
+  {
+    "id": "enq_003",
+    "customer": "Priya Sharma",
+    "channel": "call",
+    "status": "new",
+    "message": "Called to ask about the monthly pricing plans and whether there's a discount for annual subscriptions.",
+    "summary": "Customer enquiring about pricing plans and annual subscription discounts.",
+    "sopMatch": "Pricing Question",
+    "suggestedResponse": "Hi Priya! Our monthly plan starts at ₹2,999/month. We offer a 20% discount on annual subscriptions, bringing it to ₹28,788/year. Would you like more details?",
+    "receivedAt": "2026-05-23T08:05:00Z"
+  },
+  {
+    "id": "enq_004",
+    "customer": "Arjun Mehta",
+    "channel": "whatsapp",
+    "status": "escalated",
+    "message": "I've been waiting for my order for 3 days now and nobody is responding to my calls. This is completely unacceptable.",
+    "summary": "Frustrated customer complaining about delayed order and unresponsive support.",
+    "sopMatch": "Complaint",
+    "suggestedResponse": "We sincerely apologise for the inconvenience, Arjun. This is not the experience we want for you. Let me immediately escalate this to our operations team.",
+    "receivedAt": "2026-05-23T05:50:00Z",
+    "reason": "Unresolved order delay complaint"
+  },
+  {
+    "id": "enq_005",
+    "customer": "Neha Joshi",
+    "channel": "email",
+    "status": "new",
+    "message": "Do you offer services after 8 PM? I work late and prefer to discuss requirements in the evening.",
+    "summary": "Customer asking about after-hours service availability.",
+    "sopMatch": "After-Hours Message",
+    "suggestedResponse": "Hello Neha! Our AI assistant is available 24/7 to answer your questions. For in-person consultations, we do offer evening slots until 9 PM on weekdays. Would you like to book one?",
+    "receivedAt": "2026-05-23T04:15:00Z"
+  },
+  {
+    "id": "enq_006",
+    "customer": "Vikram Singh",
+    "channel": "call",
+    "status": "qualified",
+    "message": "I want to schedule a follow-up call with the sales team about the enterprise plan we discussed last week.",
+    "summary": "Returning customer requesting follow-up on enterprise plan discussion.",
+    "sopMatch": "Booking Enquiry",
+    "suggestedResponse": "Hello Vikram! Great to hear from you again. I'll schedule a follow-up call with our enterprise sales team. Are you available tomorrow between 11 AM and 1 PM?",
+    "receivedAt": "2026-05-23T09:00:00Z"
+  },
+  {
+    "id": "enq_007",
+    "customer": "Ananya Patel",
+    "channel": "whatsapp",
+    "status": "resolved",
+    "message": "Just checking if my support ticket #TKT-2291 has been resolved yet?",
+    "summary": "Customer following up on existing support ticket status.",
+    "sopMatch": "Complaint",
+    "suggestedResponse": "Hi Ananya! Your ticket #TKT-2291 has been resolved as of this morning. You should receive a confirmation email shortly. Is there anything else I can help you with?",
+    "receivedAt": "2026-05-22T15:30:00Z"
+  },
+  {
+    "id": "enq_008",
+    "customer": "Dev Kapoor",
+    "channel": "email",
+    "status": "new",
+    "message": "We're a startup team of 12 and looking for a communication solution. Can you tell me about team pricing?",
+    "summary": "Startup enquiring about team pricing for a 12-person organisation.",
+    "sopMatch": "Pricing Question",
+    "suggestedResponse": "Hi Dev! For a team of 12, our Team Plan at ₹1,499/user/month would be ideal, with volume discounts available. Would you like a personalised quote and demo?",
+    "receivedAt": "2026-05-23T10:00:00Z"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "evt_001",
+    "enquiryId": "enq_001",
+    "type": "enquiry_created",
+    "description": "Enquiry received via WhatsApp",
+    "timestamp": "2026-05-23T06:14:00Z"
+  },
+  {
+    "id": "evt_002",
+    "enquiryId": "enq_001",
+    "type": "sop_matched",
+    "description": "Matched SOP: Pricing Complaint",
+    "timestamp": "2026-05-23T06:14:05Z"
+  },
+  {
+    "id": "evt_003",
+    "enquiryId": "enq_001",
+    "type": "message_sent",
+    "description": "AI response sent to customer",
+    "timestamp": "2026-05-23T06:14:06Z"
+  },
+  {
+    "id": "evt_004",
+    "enquiryId": "enq_001",
+    "type": "escalated",
+    "description": "Escalated to human agent — Pricing dispute",
+    "timestamp": "2026-05-23T06:20:00Z"
+  },
+  {
+    "id": "evt_005",
+    "enquiryId": "enq_002",
+    "type": "enquiry_created",
+    "description": "Enquiry received via Email",
+    "timestamp": "2026-05-23T07:30:00Z"
+  },
+  {
+    "id": "evt_006",
+    "enquiryId": "enq_002",
+    "type": "sop_matched",
+    "description": "Matched SOP: Booking Enquiry",
+    "timestamp": "2026-05-23T07:30:04Z"
+  },
+  {
+    "id": "evt_007",
+    "enquiryId": "enq_002",
+    "type": "message_sent",
+    "description": "AI response with available slots sent",
+    "timestamp": "2026-05-23T07:30:05Z"
+  },
+  {
+    "id": "evt_008",
+    "enquiryId": "enq_002",
+    "type": "followup_scheduled",
+    "description": "Follow-up scheduled for 11:00 AM",
+    "timestamp": "2026-05-23T07:31:00Z"
+  },
+  {
+    "id": "evt_009",
+    "enquiryId": "enq_004",
+    "type": "enquiry_created",
+    "description": "Enquiry received via WhatsApp",
+    "timestamp": "2026-05-23T05:50:00Z"
+  },
+  {
+    "id": "evt_010",
+    "enquiryId": "enq_004",
+    "type": "sop_matched",
+    "description": "Matched SOP: Complaint",
+    "timestamp": "2026-05-23T05:50:03Z"
+  },
+  {
+    "id": "evt_011",
+    "enquiryId": "enq_004",
+    "type": "message_sent",
+    "description": "Apology response and escalation notice sent",
+    "timestamp": "2026-05-23T05:50:04Z"
+  },
+  {
+    "id": "evt_012",
+    "enquiryId": "enq_004",
+    "type": "escalated",
+    "description": "Escalated — Unresolved order delay complaint",
+    "timestamp": "2026-05-23T05:55:00Z"
+  },
+  {
+    "id": "evt_013",
+    "enquiryId": "enq_007",
+    "type": "enquiry_created",
+    "description": "Enquiry received via WhatsApp",
+    "timestamp": "2026-05-22T15:30:00Z"
+  },
+  {
+    "id": "evt_014",
+    "enquiryId": "enq_007",
+    "type": "sop_matched",
+    "description": "Matched SOP: Complaint",
+    "timestamp": "2026-05-22T15:30:04Z"
+  },
+  {
+    "id": "evt_015",
+    "enquiryId": "enq_007",
+    "type": "agent_replied",
+    "description": "Human agent confirmed ticket resolution",
+    "timestamp": "2026-05-22T16:00:00Z"
+  },
+  {
+    "id": "evt_016",
+    "enquiryId": "enq_007",
+    "type": "resolved",
+    "description": "Enquiry marked as resolved",
+    "timestamp": "2026-05-22T16:05:00Z"
+  }
+]
