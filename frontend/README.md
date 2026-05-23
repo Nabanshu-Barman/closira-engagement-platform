@@ -8,6 +8,7 @@ A premium React Native mobile dashboard designed for business owners to monitor 
 - Node.js (v18+)
 - npm or yarn
 - Expo Go app (SDK version 56) on your physical device, or an iOS Simulator / Android Emulator
+- NOTE: Please install Expo Go app from the browser, not play store, as the play store app is not updated.
 
 ### Installation & Running
 
