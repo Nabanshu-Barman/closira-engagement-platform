@@ -1,6 +1,6 @@
 # Closira Engagement Platform (Full-Stack Assignment)
 
-This repository is structured for both backend and frontend submissions. The backend is complete. The frontend scaffold is prepared and will be implemented later.
+This repository is structured for both backend and frontend submissions. The backend API is complete and handles async processing. The frontend React Native application is also complete with full UI implementation.
 
 ## Repository Structure
 
@@ -14,7 +14,7 @@ Completed and ready for submission. See backend/README.md for full setup and run
 
 ## Frontend Status
 
-Scaffold only. The React Native app will be added under frontend/ later.
+Completed and ready for submission. See `frontend/README.md` for full setup, UI structure, and reasoning.
 
 ## Quick Start (Backend)
 
